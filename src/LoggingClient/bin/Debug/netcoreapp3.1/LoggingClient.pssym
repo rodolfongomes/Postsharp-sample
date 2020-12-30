@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbols LinesOfCode="34" PostSharpLinesOfCode="0" EnhancedTypesCount="2" SchemaVersion="1" PostSharpVersion="6.8.6.0" xmlns="http://schemas.postsharp.org/2.0/symbols">
+  <Class Class="#1=T:[PostSharp]PostSharp.Serialization.PSerializableAttribute">
+    <Instance Declaration="#2=T:[LoggingClient]LoggingClient.LogStepAttribute" Id="f2aa4e08dc3af377">
+      <Target />
+    </Instance>
+  </Class>
+  <Class Class="#3=T:[Postsharp-samples]Postsharp_samples.Attr.LoggingAttribute">
+    <Instance Declaration="#4=A:LoggingClient" Id="f2aa4e085900bd20">
+      <Target Target="#5=M:[LoggingClient]LoggingClient.Program::Main(System.String[])" LinesAvoided="8">
+        <JoinPoint Advising="#3" Description="#6=Wrapped by advice(s) OnEntry, OnSuccess, OnException, OnExit" Ordinal="0" />
+      </Target>
+      <Target Target="#7=M:[LoggingClient]LoggingClient.Program::ConfigureLog()" LinesAvoided="8">
+        <JoinPoint Advising="#3" Description="#6" />
+      </Target>
+      <Target Target="#8=M:[LoggingClient]LoggingClient.Program::#ctor()" LinesAvoided="8">
+        <JoinPoint Advising="#3" Description="#6" Ordinal="2" />
+      </Target>
+    </Instance>
+  </Class>
+  <Annotation Target="#9=M:[Postsharp-samples]Postsharp_samples.Attr.LoggingAttribute::OnEntry(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#10=2" Description="#11=PostSharp estimates that 2 lines of code are saved every time this advice is applied. Use the [LinesOfCodeAvoided] attribute on the aspect or specify the LinesOfCodeAvoided property on the advice attribute to override this value." />
+  <Annotation Target="#12=M:[Postsharp-samples]Postsharp_samples.Attr.LoggingAttribute::OnSuccess(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#10" Description="#11" />
+  <Annotation Target="#13=M:[Postsharp-samples]Postsharp_samples.Attr.LoggingAttribute::OnExit(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#10" Description="#11" />
+  <Annotation Target="#14=M:[Postsharp-samples]Postsharp_samples.Attr.LoggingAttribute::OnException(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#10" Description="#11" />
+</Symbols>

@@ -1,0 +1,15 @@
+c:\Users\rodol\Postsharp-sample\src\Postsharp-samples\Postsharp-samples\bin\Debug\netstandard2.0\Postsharp-samples.pssym
+c:\Users\rodol\Postsharp-sample\src\Postsharp-samples\Postsharp-samples\bin\Debug\netstandard2.0\Postsharp-samples.pspdb
+c:\Users\rodol\Postsharp-sample\src\Postsharp-samples\Postsharp-samples\bin\Debug\netstandard2.0\NLog.config
+c:\Users\rodol\Postsharp-sample\src\Postsharp-samples\Postsharp-samples\bin\Debug\netstandard2.0\Postsharp-samples.deps.json
+c:\Users\rodol\Postsharp-sample\src\Postsharp-samples\Postsharp-samples\bin\Debug\netstandard2.0\Postsharp-samples.dll
+c:\Users\rodol\Postsharp-sample\src\Postsharp-samples\Postsharp-samples\bin\Debug\netstandard2.0\Postsharp-samples.pdb
+c:\Users\rodol\Postsharp-sample\src\Postsharp-samples\Postsharp-samples\obj\Debug\netstandard2.0\Postsharp-samples.csprojAssemblyReference.cache
+c:\Users\rodol\Postsharp-sample\src\Postsharp-samples\Postsharp-samples\obj\Debug\netstandard2.0\Postsharp-samples.AssemblyInfoInputs.cache
+c:\Users\rodol\Postsharp-sample\src\Postsharp-samples\Postsharp-samples\obj\Debug\netstandard2.0\Postsharp-samples.AssemblyInfo.cs
+c:\Users\rodol\Postsharp-sample\src\Postsharp-samples\Postsharp-samples\obj\Debug\netstandard2.0\Postsharp-samples.csproj.CoreCompileInputs.cache
+c:\Users\rodol\Postsharp-sample\src\Postsharp-samples\Postsharp-samples\obj\Debug\netstandard2.0\PostSharp\touch
+c:\Users\rodol\Postsharp-sample\src\Postsharp-samples\Postsharp-samples\obj\Debug\netstandard2.0\PostSharp\dependencies.txt
+c:\Users\rodol\Postsharp-sample\src\Postsharp-samples\Postsharp-samples\obj\Debug\netstandard2.0\Postsharp-samples.dll
+c:\Users\rodol\Postsharp-sample\src\Postsharp-samples\Postsharp-samples\obj\Debug\netstandard2.0\Postsharp-samples.pdb
+c:\Users\rodol\Postsharp-sample\src\Postsharp-samples\Postsharp-samples\obj\Debug\netstandard2.0\PostSharp\postsharp.app.config

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbols LinesOfCode="21" PostSharpLinesOfCode="0" EnhancedTypesCount="1" SchemaVersion="1" PostSharpVersion="6.8.6.0" xmlns="http://schemas.postsharp.org/2.0/symbols">
+  <Class Class="#1=T:[PostSharp]PostSharp.Serialization.PSerializableAttribute">
+    <Instance Declaration="#2=T:[Postsharp-samples]Postsharp_samples.Attr.LoggingAttribute" Id="11b0a9a83bce9cdc">
+      <Target />
+    </Instance>
+  </Class>
+</Symbols>

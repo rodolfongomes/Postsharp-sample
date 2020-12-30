@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "i6Q0Rlxt38FYnWTYh0HngTXBTes6feE3FejyWFKr0W+s0bQJG3HQyGVpNZ98QOS/OfXlZG8zTzpozD8TYxh6jw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\rodol\\Postsharp-sample\\src\\LoggingClient\\LoggingClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rodol\\.nuget\\packages\\nlog\\4.7.6\\nlog.4.7.6.nupkg.sha512",
+    "C:\\Users\\rodol\\.nuget\\packages\\nlog.config\\4.7.6\\nlog.config.4.7.6.nupkg.sha512",
+    "C:\\Users\\rodol\\.nuget\\packages\\nlog.schema\\4.7.6\\nlog.schema.4.7.6.nupkg.sha512",
+    "C:\\Users\\rodol\\.nuget\\packages\\postsharp\\6.8.6\\postsharp.6.8.6.nupkg.sha512",
+    "C:\\Users\\rodol\\.nuget\\packages\\postsharp.patterns.common\\6.8.6\\postsharp.patterns.common.6.8.6.nupkg.sha512",
+    "C:\\Users\\rodol\\.nuget\\packages\\postsharp.patterns.common.redist\\6.8.6\\postsharp.patterns.common.redist.6.8.6.nupkg.sha512",
+    "C:\\Users\\rodol\\.nuget\\packages\\postsharp.patterns.diagnostics\\6.8.6\\postsharp.patterns.diagnostics.6.8.6.nupkg.sha512",
+    "C:\\Users\\rodol\\.nuget\\packages\\postsharp.patterns.diagnostics.nlog\\6.8.6\\postsharp.patterns.diagnostics.nlog.6.8.6.nupkg.sha512",
+    "C:\\Users\\rodol\\.nuget\\packages\\postsharp.patterns.diagnostics.redist\\6.8.6\\postsharp.patterns.diagnostics.redist.6.8.6.nupkg.sha512",
+    "C:\\Users\\rodol\\.nuget\\packages\\postsharp.redist\\6.8.6\\postsharp.redist.6.8.6.nupkg.sha512",
+    "C:\\Users\\rodol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512",
+    "C:\\Users\\rodol\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.2\\microsoft.netcore.app.host.win-x64.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

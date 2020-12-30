@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Postsharp_samples</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NLog" Version="4.7.6" />
+    <PackageReference Include="NLog.Config" Version="4.7.6" />
+    <PackageReference Include="PostSharp" Version="6.8.6" />
+    <PackageReference Include="PostSharp.Patterns.Diagnostics" Version="6.8.6" />
+    <PackageReference Include="PostSharp.Patterns.Diagnostics.NLog" Version="6.8.6" />
+  </ItemGroup>
+
+</Project>

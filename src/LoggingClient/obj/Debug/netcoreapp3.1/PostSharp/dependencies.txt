@@ -1,0 +1,2 @@
+c:\Users\rodol\Postsharp-sample\src\LoggingClient\obj\Debug\netcoreapp3.1\PostSharp\PostSharp.Compiler.Engine.dll
+c:\Users\rodol\Postsharp-sample\src\LoggingClient\obj\Debug\netcoreapp3.1\PostSharp\postsharp.config

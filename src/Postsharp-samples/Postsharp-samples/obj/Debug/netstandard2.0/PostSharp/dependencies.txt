@@ -1,0 +1,2 @@
+c:\Users\rodol\Postsharp-sample\src\Postsharp-samples\Postsharp-samples\obj\Debug\netstandard2.0\PostSharp\PostSharp.Compiler.Engine.dll
+c:\Users\rodol\Postsharp-sample\src\Postsharp-samples\Postsharp-samples\obj\Debug\netstandard2.0\PostSharp\postsharp.config

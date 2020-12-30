@@ -1,0 +1,196 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "Postsharp-samples/1.0.0": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3",
+          "NLog": "4.7.6",
+          "NLog.Config": "4.7.6",
+          "PostSharp": "6.8.6",
+          "PostSharp.Patterns.Diagnostics": "6.8.6",
+          "PostSharp.Patterns.Diagnostics.NLog": "6.8.6"
+        },
+        "runtime": {
+          "Postsharp-samples.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "NLog/4.7.6": {
+        "runtime": {
+          "lib/netstandard2.0/NLog.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.7.6.12219"
+          }
+        }
+      },
+      "NLog.Config/4.7.6": {
+        "dependencies": {
+          "NLog": "4.7.6",
+          "NLog.Schema": "4.7.6"
+        }
+      },
+      "NLog.Schema/4.7.6": {},
+      "PostSharp/6.8.6": {
+        "dependencies": {
+          "PostSharp.Redist": "6.8.6"
+        }
+      },
+      "PostSharp.Patterns.Common/6.8.6": {
+        "dependencies": {
+          "PostSharp": "6.8.6",
+          "PostSharp.Patterns.Common.Redist": "6.8.6"
+        }
+      },
+      "PostSharp.Patterns.Common.Redist/6.8.6": {
+        "dependencies": {
+          "PostSharp.Redist": "6.8.6"
+        },
+        "runtime": {
+          "lib/netstandard2.0/PostSharp.Patterns.Common.dll": {
+            "assemblyVersion": "6.8.6.0",
+            "fileVersion": "6.8.6.0"
+          }
+        }
+      },
+      "PostSharp.Patterns.Diagnostics/6.8.6": {
+        "dependencies": {
+          "PostSharp.Patterns.Common": "6.8.6",
+          "PostSharp.Patterns.Diagnostics.Redist": "6.8.6"
+        }
+      },
+      "PostSharp.Patterns.Diagnostics.NLog/6.8.6": {
+        "dependencies": {
+          "NLog": "4.7.6",
+          "PostSharp.Patterns.Diagnostics.Redist": "6.8.6"
+        },
+        "runtime": {
+          "lib/netstandard2.0/PostSharp.Patterns.Diagnostics.Backends.NLog.dll": {
+            "assemblyVersion": "6.8.6.0",
+            "fileVersion": "6.8.6.0"
+          }
+        }
+      },
+      "PostSharp.Patterns.Diagnostics.Redist/6.8.6": {
+        "dependencies": {
+          "PostSharp.Patterns.Common.Redist": "6.8.6"
+        },
+        "runtime": {
+          "lib/netstandard2.0/PostSharp.Patterns.Diagnostics.dll": {
+            "assemblyVersion": "6.8.6.0",
+            "fileVersion": "6.8.6.0"
+          }
+        }
+      },
+      "PostSharp.Redist/6.8.6": {
+        "runtime": {
+          "lib/netstandard2.0/PostSharp.dll": {
+            "assemblyVersion": "6.8.6.0",
+            "fileVersion": "6.8.6.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Postsharp-samples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "NLog/4.7.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mVYfNsZk6HY26/S/T3vVd2RS/1GySaeNh6bjP8uE7mKAdTENlRycQr7S4FC+I//QflXl/D/HEEugE47BDxQ5wA==",
+      "path": "nlog/4.7.6",
+      "hashPath": "nlog.4.7.6.nupkg.sha512"
+    },
+    "NLog.Config/4.7.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4rrKtrgMZ4w9dyk/5aVISyGsfdcd+STumZONKouJFlJ3cvWLhw5cLe7QpqE/8SwW4E5Lr3xCqJA9e5QPCVMZNw==",
+      "path": "nlog.config/4.7.6",
+      "hashPath": "nlog.config.4.7.6.nupkg.sha512"
+    },
+    "NLog.Schema/4.7.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wHlakqgco/grSxtY6g2kq0o3QMmpTXgV6kBGXn9CkYxOzoVxMQkB/p5ZoayjOBvWbOUsWqpppo0ETaa/nysg2Q==",
+      "path": "nlog.schema/4.7.6",
+      "hashPath": "nlog.schema.4.7.6.nupkg.sha512"
+    },
+    "PostSharp/6.8.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8+PUtpb3Ka5ZMW/MpZK1eB6mqKYJ3sI61slw/9qyj8mX2Jx+dK/Eebf24YKxV9VZ/IWUeGU9zHlN5SxoxwsmFw==",
+      "path": "postsharp/6.8.6",
+      "hashPath": "postsharp.6.8.6.nupkg.sha512"
+    },
+    "PostSharp.Patterns.Common/6.8.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-N/oFYmg1zU/S5Pu3kWweS//BJnhI2wU4Y0PVQSj4MCKDaCMPyEy8u6ovrS5DqSnRWS0N7cVE82WBAHYmtHA1tQ==",
+      "path": "postsharp.patterns.common/6.8.6",
+      "hashPath": "postsharp.patterns.common.6.8.6.nupkg.sha512"
+    },
+    "PostSharp.Patterns.Common.Redist/6.8.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sFl+HvRVW2TmY7vDZXWuU/eHBy6jTPPZL9RdZIgBdZ97BXeKA7k2K6NjjDAkFn4cXKMlLf8rXmg4uygsNAcHCw==",
+      "path": "postsharp.patterns.common.redist/6.8.6",
+      "hashPath": "postsharp.patterns.common.redist.6.8.6.nupkg.sha512"
+    },
+    "PostSharp.Patterns.Diagnostics/6.8.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hLlU/Or89Tcopgbz34Gj7nPEiWx6NfW7hPtGpFN/AJczhah5H+kjPRFbjEmAHip1kY+uqa5S5IO9BALQEWNSYw==",
+      "path": "postsharp.patterns.diagnostics/6.8.6",
+      "hashPath": "postsharp.patterns.diagnostics.6.8.6.nupkg.sha512"
+    },
+    "PostSharp.Patterns.Diagnostics.NLog/6.8.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YwmwVOm8TKQ+tYMx5+jKPOLAizXM34ASoYZMUMKjbNQkHoRTHYc8RT3iwpc2pH9EBkTN0FK0JAXCNItF/S8UEw==",
+      "path": "postsharp.patterns.diagnostics.nlog/6.8.6",
+      "hashPath": "postsharp.patterns.diagnostics.nlog.6.8.6.nupkg.sha512"
+    },
+    "PostSharp.Patterns.Diagnostics.Redist/6.8.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IoQZZskk8OsVl8JPJXeezLgotfRgD4ylVzL5H0LCn+0UMXjUvA8FkvNhAeMgMVXTINz7pl/EAKonD6bMn6VBVw==",
+      "path": "postsharp.patterns.diagnostics.redist/6.8.6",
+      "hashPath": "postsharp.patterns.diagnostics.redist.6.8.6.nupkg.sha512"
+    },
+    "PostSharp.Redist/6.8.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zQkCgU1ppuN6AAHas4lXfjGEZQqp9jvNjV7mZKCd1FM/bdxQb0AmBMiP1SFRY02xEA4Y6kT79e5Ik1a1rdNQEQ==",
+      "path": "postsharp.redist/6.8.6",
+      "hashPath": "postsharp.redist.6.8.6.nupkg.sha512"
+    }
+  }
+}
